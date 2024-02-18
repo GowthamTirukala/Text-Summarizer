@@ -1,0 +1,4 @@
+python>=3.8
+streamlit
+txtai
+PyPDF2
